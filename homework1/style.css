@@ -1,0 +1,30 @@
+.blockOne
+{
+    background: #433D3D;
+    color: white;
+
+}
+
+.redBlock
+{
+    background: #F74344;
+    width: 100px;
+    height: 100px;
+}
+
+.purpleTxt
+{
+     color: #EA7BF1;
+}
+
+.blockTwo
+{
+    background: #C59EF9;
+    width: 300px;
+}
+
+.elm
+{
+    background: #7342B5;
+    color: white;
+}
