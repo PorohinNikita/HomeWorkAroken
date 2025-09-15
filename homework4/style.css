@@ -1,0 +1,30 @@
+.blockText1 {
+    font-family: "Fira Sans Condensed", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+    color: black;
+}
+
+.blockText2 {
+    text-decoration: line-through;
+}
+
+.blockText3 {
+    text-transform: uppercase;
+}
+
+.blockText4 {
+    word-spacing: 30px;
+    color: blueviolet;
+    text-decoration: underline wavy;
+    text-decoration-line: overline;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+.blockText5 {
+    letter-spacing: 5px;
+    text-decoration:underline double;
+    
+}
