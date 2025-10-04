@@ -1,0 +1,30 @@
+.mainBlock {
+    background-color: rgb(237, 232, 232);
+    border-radius: 40px 0px 0px 40px;
+    overflow: auto;
+    margin: 10px;
+    border: 2px solid black;
+    height: 500px;
+}
+
+.elm {
+    background-color: rgb(211, 180, 118);
+    box-shadow: inset 0px 0px 10px black;
+    max-width: 300px;
+    max-height: 500px;
+    min-height: 200px;
+    border-radius: 30px;
+    overflow: hidden;
+    box-sizing: border-box ;
+    margin: 15px;
+    display: inline-block;
+}
+
+h2 {
+    padding: 20px 50px 0px 30px;
+}
+
+p {
+    padding: 5px 25px 0px 30px;
+    height: 50px;
+}
